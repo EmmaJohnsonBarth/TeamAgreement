@@ -8,9 +8,9 @@ Members: Emma Johnson-Barth, Luke McCarthy, Ava Melchoir
 
 Emma - JavaScript (vanilla)
 
-Ava - CSS and Styling
+Ava - CSS and Styling, Bootstrap
 
-Luke - General Troubleshooting
+Luke - General Troubleshooting, JavaScript
 
 **How can you best utilize these strengths in the execution of your project?**
 
@@ -24,7 +24,7 @@ Luke: Craft Competency
 
 Ava: Leadership
 
-Emma: Craft Competency, Technical Competency
+Emma: Craft Competency
 
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
@@ -91,11 +91,11 @@ Ideally 10 minutes every hour, no more than 2 hours without 10 minute break
 
 **How you will identify tasks, assign tasks, know when they are complete, and manage work in general?**
 
-Trello project management board or GitHub PM board
+Trello project management board
 
 **What project management tool will be used?**
 
-Trello or GitHub (TBD)
+Trello
 
 ## Presentation Deck
 
@@ -105,7 +105,7 @@ Trello or GitHub (TBD)
 
 **What components of your project will live on GitHub?**
 
-Management tool, Pull requests, Website links
+Pull requests, website links
 
 **How will you share the repository with your teammates?**
 
@@ -113,7 +113,7 @@ Yes, done
 
 **What is your Git flow?**
 
-Do all work on new branch. Push and pull to Dev branch, merge Dev branch at least once daily when all items on the dev branch are confirmed to work.
+Do all work on new branch. Push and pull to Dev branch, merge Dev branch with main branch at least once daily when all items on the dev branch are confirmed to work.
 
 **Will you be using a PR review workflow? If so, consider:**
 
@@ -131,4 +131,4 @@ Aiming for once per hour
 
 **How will you communicate that it’s time to merge?**
 
-Verbally, over slack if someone is remote
+Verbally, over slack if someone is remote.
