@@ -1,12 +1,12 @@
-# TEAM AGREEMENT
+# TEAM AGREEMENT 301
 
-Emma Johnson-Barth, Luke McCarthy, Ava Melchoir
+Members: Emma Johnson-Barth, Luke McCarthy, Ava Melchoir
 
 ## Cooperation Plan
 
 **What are the key strengths of each person on the team?**
 
-Emma - JavaScript
+Emma - JavaScript (vanilla)
 
 Ava - CSS and Styling
 
@@ -26,10 +26,10 @@ Ava: Leadership
 
 Emma: Craft Competency, Technical Competency
 
-
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
 Communication and check-ins, stand-ups. Emphasis on ensuring psychological safety.
+
 
 ## Conflict Plan
 
@@ -37,7 +37,7 @@ Communication and check-ins, stand-ups. Emphasis on ensuring psychological safet
 
 - Talk it out, voice opinions early
 
-- voting, take breaks often
+- Voting, take breaks often
 
 **What will your team do if one person is taking over the project and not letting the other members contribute?**
 
